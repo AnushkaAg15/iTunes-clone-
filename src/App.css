@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.card {
+  /* padding: 50px;
+  background-color: green; */
+  transition: transform 0.2s;
+  box-shadow: 5px 10px #264d4d;
+  /* width: 200px;
+  height: 200px;
+  margin: 0 auto; */
+}
+
+.cardbox:hover {
+  transform: scale(1.2);
+}
+.cont {
+  padding: 30px;
+}
+
+body {
+  background-color: #002626;
+}
+
+.cardbody {
+  background-color: #bcc9c9;
+}
